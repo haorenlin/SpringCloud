@@ -16,11 +16,11 @@
 			<artifactId>linservicecloud-api</artifactId>
 			<version>${project.version}</version>
 		</dependency>
-		<!-- actuator监控信息完善 -->
-		<!-- <dependency>
+		<!-- actuator监控信息完善  主管监控和信息配置-->
+		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-actuator</artifactId>
-		</dependency> -->
+		</dependency>
 		<!-- 将微服务注册进eureka -->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
