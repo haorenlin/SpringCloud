@@ -102,5 +102,8 @@
 	<modules>
 		<module>linservicecloud-api</module>
 		<module>linservicecloud-provider-dept-8001</module>
+		<module>linservicecloud-consumer-dept-80</module>
+		<module>linservicecloud-config-eureka-client-7001</module>
+		<module>linservicecloud-eureka-7001</module>
 	</modules>
 </project>
